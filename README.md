@@ -1,9 +1,11 @@
 # function.py
-- CEC2013 Benchmark Function
+Python code for CEC2013 Benchmark Function
 - Only Unimodal & Multimodal Functions implemented, no Mixed Functions.
-
-- 👀 I’m interested in Computational Intelligence and some kind of machine learning.
-- 🌱 I’m currently learning Evolutionary Algorithms like ACS, PSO etc.
+- initial with specifying the dimensionality in the format of ```funcname(d: dimension)```, like ```function = func1(10)```.
+- run the test function with vector or matrix data as the parameter, like ```func1.run(vec)```
+- 
+# CoordinateSystemTrans.py
+Multi-dimensional Coordinates System Transformation
 
 
 <!---
