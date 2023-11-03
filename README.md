@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @Vradimir and now at the School of Computer Science and engeering in SCUT. you can just call me hayden.
+# function.py
+- CEC2013 Benchmark Function
+- Only Unimodal & Multimodal Functions implemented, no Mixed Functions.
+
 - 👀 I’m interested in Computational Intelligence and some kind of machine learning.
 - 🌱 I’m currently learning Evolutionary Algorithms like ACS, PSO etc.
 
