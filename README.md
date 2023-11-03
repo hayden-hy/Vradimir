@@ -11,7 +11,7 @@ Multi-dimensional Coordinates System Transformation
   - input: cartesian vec $\[ x1,x2,...,x_n \]$
   - output: polar vec $\[ \rho ,\theta_1,\theta_2,..., \theta_n-1 \]$
 - cartesina2polar
-  - reversed as polar2cartesian
+  - reverse to polar2cartesian
 - ps: transformation with accuracy loss due to the byte digit limit of float type.
   
 ### JADE.py
