@@ -23,7 +23,7 @@ JADE Using the multiform evolution framework below.
 - $t_1$ : control the independent evolution
 - $t_2$ : control the dominant evolution
 ![Algorithm](https://github.com/hayden-hy/Vradimir/assets/54624140/abf64056-a43c-4836-875b-d115312d8e70)
-- the code has been modified to fit in the multiform with 3 forms. namely polar and cartesian plus PCA transformation, you can edit the code by removing PCA transformation to fit for the polar-and-cartesian-based multiform again.
+- The code has been modified to fit in the multiform with 3 forms. namely polar and cartesian plus PCA transformation. Nonetheless, it is often stuck in early convergence, i.e., local minima. you can edit the code by removing the PCA transformation to fit the polar-and-cartesian-based multiform again.
 
 # Miscellaneous
-There are some other multiform algorithms attempting to seek improvements for the multiform JADE, but they are all less effective than the polar-and-cartesian-based multiform JADE. 
+I tried some other variants of DE algorithms and made some modifications attempting to seek improvements for the multiform JADE, but they are all less effective than the polar-and-cartesian-based multiform JADE. 
